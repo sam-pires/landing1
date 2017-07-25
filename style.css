@@ -1,0 +1,16 @@
+h1 {
+	font-family: 'Roboto', sans-serif;
+	color: #693E52;
+}
+
+h1:hover {
+	color: #454545;
+	cursor: pointer;
+}
+
+.avatar {
+	height: 50px;
+	width: 50px
+	border-radius: 50%;
+
+}
